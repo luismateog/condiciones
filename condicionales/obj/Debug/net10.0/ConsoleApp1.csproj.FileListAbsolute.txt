@@ -1,0 +1,28 @@
+C:\proyectos\C#\Nueva carpeta\condicionales\bin\Debug\net10.0\ConsoleApp1.exe
+C:\proyectos\C#\Nueva carpeta\condicionales\bin\Debug\net10.0\ConsoleApp1.deps.json
+C:\proyectos\C#\Nueva carpeta\condicionales\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+C:\proyectos\C#\Nueva carpeta\condicionales\bin\Debug\net10.0\ConsoleApp1.dll
+C:\proyectos\C#\Nueva carpeta\condicionales\bin\Debug\net10.0\ConsoleApp1.pdb
+C:\proyectos\C#\Nueva carpeta\condicionales\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\C#\Nueva carpeta\condicionales\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\proyectos\C#\Nueva carpeta\condicionales\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\proyectos\C#\Nueva carpeta\condicionales\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\proyectos\C#\Nueva carpeta\condicionales\obj\Debug\net10.0\ConsoleApp1.dll
+C:\proyectos\C#\Nueva carpeta\condicionales\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\proyectos\C#\Nueva carpeta\condicionales\obj\Debug\net10.0\ConsoleApp1.pdb
+C:\proyectos\C#\Nueva carpeta\condicionales\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+C:\proyectos\C#\Nueva carpeta\condicionales\obj\Debug\net10.0\ref\ConsoleApp1.dll
+C:\proyectos\C#\condiciones\condicionales\bin\Debug\net10.0\ConsoleApp1.exe
+C:\proyectos\C#\condiciones\condicionales\bin\Debug\net10.0\ConsoleApp1.deps.json
+C:\proyectos\C#\condiciones\condicionales\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+C:\proyectos\C#\condiciones\condicionales\bin\Debug\net10.0\ConsoleApp1.dll
+C:\proyectos\C#\condiciones\condicionales\bin\Debug\net10.0\ConsoleApp1.pdb
+C:\proyectos\C#\condiciones\condicionales\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\C#\condiciones\condicionales\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\proyectos\C#\condiciones\condicionales\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\proyectos\C#\condiciones\condicionales\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\proyectos\C#\condiciones\condicionales\obj\Debug\net10.0\ConsoleApp1.dll
+C:\proyectos\C#\condiciones\condicionales\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\proyectos\C#\condiciones\condicionales\obj\Debug\net10.0\ConsoleApp1.pdb
+C:\proyectos\C#\condiciones\condicionales\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+C:\proyectos\C#\condiciones\condicionales\obj\Debug\net10.0\ref\ConsoleApp1.dll
